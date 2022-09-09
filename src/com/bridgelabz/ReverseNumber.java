@@ -5,7 +5,6 @@ package com.bridgelabz;
 
 
 import java.util.Scanner;
-
 /**
  * @author ASUS
  *
