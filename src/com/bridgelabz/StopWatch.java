@@ -11,7 +11,6 @@ import java.util.Scanner;
  *
  */
 public class StopWatch {
-
 	/**
 	 * @param args
 	 */
